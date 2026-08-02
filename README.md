@@ -1,3 +1,5 @@
 ## Chrystelle Kiang, PhD, MPH
 
-Epidemiologist trained at Emory University. My skills include study design using real-world health data, R and SAS programming for data manipulation, statistical analysis, and visualization, with a year of industry experience as an Epidemiology intern at IQVIA. 
+This repo is projects I have done during my training at Emory University. 
+
+About me: I'm an epidemiologist currently working on perinatal and pediatric health outcomes with have experience in cancer epi and epidemiology methods.
